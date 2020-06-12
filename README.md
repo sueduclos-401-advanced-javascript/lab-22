@@ -4,9 +4,9 @@
 
 Code 401 Class 22 ReactTesting and Development
 
-Write unit tests for a counter application, and then deploy the counter application to a variety of places.Your main implementation task for this lab will be to add unit tests for the main components within the starter code. 
+Write unit tests for a counter application, and then deploy the counter application to a variety of places.Your main implementation task for this lab will be to add unit tests for the main components within the starter code.
 
-**Code Implementation**
+### Code Implementation
 
 `Counter.test.js`: Write robust tests for the Counter component that must test:
 
@@ -14,11 +14,11 @@ Write unit tests for a counter application, and then deploy the counter applicat
 * On clicking the + button, the state count variable should be increased by 1
 * When the state count variable changes, the HTML should update and match that change
 
-`App.test.js`: 
+`App.test.js`:
  
-* Implement a snapshot test that asserts that the page looks as expected. 
+* Implement a snapshot test that asserts that the page looks as expected.
 
-**Design Implementation**
+### Design Implementation
 
 `styles.scss`
 
@@ -27,22 +27,22 @@ Write unit tests for a counter application, and then deploy the counter applicat
 * Utilize SASS nesting capabilities
 * Utilize partials so that your style code can be broken up across multiple files. `@use` these partials in your main `styles.scss/styles.sass` file
 
-**Deployment**
+### Deployment
 
-Deploy this counter application to three different services. 
+Deploy this counter application to three different services.
+
 1. Netlify
 2. AWS S3
 3. AWS Amplify
-
 
 ### Author: Sue Duclos
 
 ### Links and Resources
 
-- [Submission Pull Request](www.xyz.com)
-- [Netlify Deployment](www.abc.com)
-- [AWS S3 Deployment](www.abc.com)
-- [AWS Amplify Deployment](www.abc.com)
+*[Submission Pull Request](www.xyz.com)
+*[Netlify Deployment](www.abc.com)
+*[AWS S3 Deployment](www.abc.com)
+*[AWS Amplify Deployment](www.abc.com)
 
 ### Setup
 
@@ -50,8 +50,8 @@ Deploy this counter application to three different services.
 
 #### Tests
 
-- npm run test
+* npm run test
 
 #### UML
 
-- ![UML22](https://github.com/sueduclos-401-advanced-javascript/lab-22/blob/master/assets/lab-22-uml.png)
+* ![UML22](https://github.com/sueduclos-401-advanced-javascript/lab-22/blob/master/assets/lab-22-uml.png)
