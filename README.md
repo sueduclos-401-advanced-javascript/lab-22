@@ -39,12 +39,17 @@ Deploy this counter application to three different services.
 
 ### Links and Resources
 
-- [Submission Pull Request](www.xyz.com)
+- [Submission Pull Request](https://github.com/sueduclos-401-advanced-javascript/lab-22/pull/1)
 - [Netlify Deployment](www.abc.com)
 - [AWS S3 Deployment](www.abc.com)
 - [AWS Amplify Deployment](www.abc.com)
 
 ### Setup
+
+* npm install
+* npm install enzyme
+* npm install enzyme-adapter-react-16
+* npm start
 
 #### How to initialize/run your application
 
